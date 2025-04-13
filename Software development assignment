@@ -1,1 +1,147 @@
 
+1. Why is timely delivery crucial in software project management, and how can project managers ensure deadlines are met?
+
+Importance:
+- Builds client trust and satisfaction.
+- Reduces development costs and avoids penalties.
+- Keeps competitive advantage by releasing timely updates/features.
+              
+Strategies:
+- Break project into manageable tasks with clear milestones.
+- Use project management tools (e.g., Jira, Trello).
+- Regular stand-up meetings for status checks.
+- Identify risks early and apply mitigation strategies.
+- Allocate buffer time for critical tasks.          
+
+
+2. How does effective cost control contribute to the success of a software project?
+
+Benefits:
+- Prevents resource wastage.
+- Keeps the project within financial feasibility.
+- Builds investor and stakeholder confidence.
+
+Strategies:
+- Develop an accurate budget with contingencies.
+- Monitor spending against the budget in real-time.
+- Use earned value management (EVM) to assess cost performance.
+- Negotiate vendor contracts carefully.
+- Use open-source tools where applicable.
+
+
+3. Compare and contrast Agile and Waterfall methodologies.
+
+Pros of Agile:
+- Better adaptability
+- Customer-focused
+- Early detection of bugs
+
+Cons of Agile:
+- Requires experienced team
+- Less predictability
+
+
+Pros of Waterfall:
+- Clear structure
+- Well-suited for fixed-scope projects
+
+
+Cons of Waterfall:
+- Poor flexibility
+- Late testing = costly fixes
+
+
+4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa?
+
+Agile suits:
+- Projects with evolving requirements (e.g., mobile apps, SaaS platforms).
+- Startups and customer-driven iterations.
+- Example: A food delivery app with features added based on user feedback.
+
+Waterfall suits:
+- Projects with fixed, clearly defined requirements (e.g., government or banking software).
+- Example: A tax filing system for a revenue authority.
+
+
+5. What are some methods for ensuring quality assurance throughout a software project?
+
+Methods:
+- Unit testing, integration testing, and system testing.
+- Code reviews and pair programming.
+- Continuous Integration/Continuous Deployment (CI/CD).
+- Static code analysis tools.
+- Automated testing suites.
+
+Importance:
+- Reduces defects.
+- Ensures user satisfaction and system reliability.
+- Lowers maintenance costs.
+
+
+6. How does defining the project scope contribute to successful project planning?
+
+- Prevents scope creep (uncontrolled growth of requirements).
+- Sets clear expectations with stakeholders.
+- Enables better resource and time allocation.
+
+
+Work Breakdown Structure (WBS):
+- A hierarchical decomposition of the project into smaller components.
+- Helps in task assignment, budgeting, scheduling, and progress tracking.
+
+
+7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
+Benefits:
+- Clarifies task dependencies.
+- Allows for time estimation.
+- Identifies bottlenecks early.
+
+Gantt Charts:
+- Visually represent the project timeline.
+- Show task durations, start/end dates, and dependencies.
+- Useful for tracking progress and resource allocation.
+
+
+8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+The software addresses key concerns in busy urban healthcare settings:
+- inefficiencies in medical appointment scheduling
+
+Significance of the software:
+- reducing patient wait times
+- improving clinic productivity
+
+
+9. How can clearly defining the problem help in developing a more effective software solution?
+
+- Guides requirement gathering.
+- Helps select the right architecture and technologies.
+- Prevents feature bloat and unnecessary complexity.
+- Ensures user-centric design.
+
+
+10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
+- A smart scheduling assistant that connects patients with available doctors in real time, streamlining clinic workflows and improving access to healthcare.
+
+
+11. What are the main features or functionalities that make your software stand out?
+
+- Real-time notifications
+- Role-based dashboards
+- AI-powered analytics
+- Offline functionality
+- Multi-language support
+
+
+12. What data is available regarding the market size and growth potential for your software?
+
+- The global health tech market has been growing ever since the covid pandemic hit the world. The pandemic reshaped the health seeking behaviour of patients.
+
+
+13. How can understanding market trends inform your software’s positioning and development?
+
+- Helps align with current demands (e.g., cloud-first, mobile-first, AI integration).
+- Avoids outdated or redundant features.
+- Enhances competitiveness through trend-driven innovation e.g., telehealth and telemedicine
